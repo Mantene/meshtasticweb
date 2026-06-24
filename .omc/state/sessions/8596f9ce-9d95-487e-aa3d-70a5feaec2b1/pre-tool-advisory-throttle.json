@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "entries": {
+    "79a93d4a2f8f50b95f852280616242fee1855dc99a3c75211917f55e72e95fae": {
+      "last_emitted_at_ms": 1782313418559,
+      "message": "Use parallel execution for independent tasks. Use run_in_background for long operations (npm install, builds, tests)."
+    },
+    "445ed27a3872b681d98190bae61ccb84954e1bc4e140df5370be958dee776b3a": {
+      "last_emitted_at_ms": 1782313329288,
+      "message": "Verify changes work after editing. Test functionality before marking complete."
+    },
+    "466399dafa2d20f60587180bad0a07358eb7f2bce724df0ff682f038ad33f5ad": {
+      "last_emitted_at_ms": 1782312981764,
+      "message": "Read multiple files in parallel when possible for faster analysis."
+    },
+    "ca09b109b98e01588df44ae816a8a769cbdbbc0fa92c5467d36fd4d4baa47ec5": {
+      "last_emitted_at_ms": 1782312976387,
+      "message": "Spawning agent: oh-my-claudecode:code-reviewer (inherit) | Task: Review bridge implementation"
+    },
+    "998ee6c15900bb7658e55dc1b4003e5ba0038ff018d30cf98a1ee0d4b09e81f0": {
+      "last_emitted_at_ms": 1782310635953,
+      "message": "Spawning agent: Explore (inherit) | Task: Map build, serve, device-sim setup"
+    },
+    "6be8d99b2b640db87816a41f1b24cf25e1437be72f0eb99a0331381ede061ddd": {
+      "last_emitted_at_ms": 1782310624795,
+      "message": "Spawning agent: Explore (inherit) | Task: Map transport package internals"
+    },
+    "5a0c8d4aa31c8a6dfe30bc309ffd15e889eddbee6c259a40f7eee0e33caeb23d": {
+      "last_emitted_at_ms": 1782310613890,
+      "message": "Spawning agent: Explore (inherit) | Task: Map app transport wiring"
+    }
+  },
+  "updated_at": "2026-06-24T15:03:38.559Z"
+}
